@@ -1,0 +1,2 @@
+require version-baseband=4.4.c6-00044-RENNELL_GEN_PACK-1.436471.2.450892.2
+require version-vendor=1644857948
